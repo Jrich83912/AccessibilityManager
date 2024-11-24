@@ -51,3 +51,5 @@
     </application>
 
 </manifest>
+
+<uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
